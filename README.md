@@ -3,15 +3,16 @@ A Single page application featuring a map of Neighborhood I would like to visit 
 The application Come with a functionality to highlighted locations,
 third-party data about those locations and various ways to browse the content.
 
-# Dependencies and structures 
+# Dependencies
 Libraries and frameworks used: 
 - Bootstrap 4.0 
 - JQuery 3.3.1 
 - knockoutjs 
 
-JavaScript files:  assets/js/app.js
-HTML templates: index.html
-CSS files: assets/style/style.css
+# App Structure
+- JavaScript files:  assets/js/app.js
+- HTML templates: index.html
+- CSS files: assets/style/style.css
 
 # Third-Party APIs used 
 - Google maps 
