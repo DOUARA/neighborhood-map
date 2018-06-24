@@ -1,6 +1,6 @@
 # Description
-A Single page application featuring a map of Neighborhood I would like to visit :).
-The application Come with a functionality to highlighted locations,
+A Single page application featuring a map of Neighborhood I would like to visit.
+The application Comes with a functionality to highlighted locations,
 third-party data about those locations and various ways to browse the content.
 
 # Dependencies
