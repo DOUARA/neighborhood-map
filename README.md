@@ -28,4 +28,4 @@ Libraries and frameworks used:
 - Run: index.html
 
 # Live Preview 
-Live preview [Here](https://douara.me/neighborhood-map/)
+Live preview [Here](https://douara.me/preview/neighborhood-map/)
